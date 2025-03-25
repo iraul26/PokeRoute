@@ -1,0 +1,240 @@
+[
+    {
+        "id": "1",
+        "retailer": "Fry's",
+        "machineID": "Q00609",
+        "address": "20220 N 59th Ave",
+        "city": "Glendale"
+    },
+    {
+        "id": "2",
+        "retailer": "Fry's",
+        "machineID": "Q00775",
+        "address": "25116 W Olive Ave",
+        "city": "Glendale"
+    },
+    {
+        "id": "3",
+        "retailer": "Fry's",
+        "machineID": "Q00776",
+        "address": "4329 W Northern Ave",
+        "city": "Glendale"
+    },
+    {
+        "id": "4 ",
+        "retailer": "WinCo Foods",
+        "machineID": "Q01397",
+        "address": "5850 W Bell Rd",
+        "city": "Glendale"
+    },
+    {
+        "id": "5",
+        "retailer": "Fry's",
+        "machineID": "Q00318",
+        "address": "3616 E Ray Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "6",
+        "retailer": "Fry's",
+        "machineID": "Q00333",
+        "address": "1815 W Glendale Ave",
+        "city": "Phoenix"
+    },
+    {
+        "id": "7",
+        "retailer": "Fry's",
+        "machineID": "Q00337",
+        "address": "520 E Baseline Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "7",
+        "retailer": "Fry's",
+        "machineID": "Q00346",
+        "address": "3949 E Chandler Blvd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "8",
+        "retailer": "Fry's",
+        "machineID": "Q00349",
+        "address": "4025 E Thunderbird Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "9",
+        "retailer": "Fry's",
+        "machineID": "Q00353",
+        "address": "26300 Norterra Pkwy",
+        "city": "Phoenix"
+    },
+    {
+        "id": "10",
+        "retailer": "Fry's",
+        "machineID": "Q00357",
+        "address": "1311 E Bell Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "11",
+        "retailer": "Fry's",
+        "machineID": "Q00359",
+        "address": "3246 E Bell Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "12",
+        "retailer": "Fry's",
+        "machineID": "Q00361",
+        "address": "4230 W McDowell Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "13",
+        "retailer": "Fry's",
+        "machineID": "Q00363",
+        "address": "39508 N Daisy Mountain Dr",
+        "city": "Phoenix"
+    },
+    {
+        "id": "14",
+        "retailer": "Fry's",
+        "machineID": "Q00364",
+        "address": "744 W Camelback Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "15",
+        "retailer": "Fry's",
+        "machineID": "Q00365",
+        "address": "100 E Jefferson St",
+        "city": "Phoenix"
+    },
+    {
+        "id": "16",
+        "retailer": "Fry's",
+        "machineID": "Q00369",
+        "address": "3036 E Thomas Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "17",
+        "retailer": "Fry's",
+        "machineID": "Q00371",
+        "address": "4204 W Cactus Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "18",
+        "retailer": "Fry's",
+        "machineID": "Q00375",
+        "address": "3511 W Peoria Ave",
+        "city": "Phoenix"
+    },
+    {
+        "id": "19",
+        "retailer": "Fry's",
+        "machineID": "Q00377",
+        "address": "4724 N 20th St",
+        "city": "Phoenix"
+    },
+    {
+        "id": "20",
+        "retailer": "Fry's",
+        "machineID": "Q00379",
+        "address": "4707 E Shea Blvd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "21",
+        "retailer": "Fry's",
+        "machineID": "Q00382",
+        "address": "4505 E Thomas Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "22",
+        "retailer": "Fry's",
+        "machineID": "Q00733",
+        "address": "2250 E Baseline Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "23",
+        "retailer": "Fry's",
+        "machineID": "Q00756",
+        "address": "2800 W Dove Valley Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "24",
+        "retailer": "Safeway",
+        "machineID": "Q01282",
+        "address": "4005 E Chandler Blvd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "25",
+        "retailer": "Safeway",
+        "machineID": "Q01292",
+        "address": "1334 E Chandler Blvd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "26",
+        "retailer": "Safeway",
+        "machineID": "Q01301",
+        "address": "810 E Glendale Ave",
+        "city": "Phoenix"
+    },
+    {
+        "id": "27",
+        "retailer": "Safeway",
+        "machineID": "Q01303",
+        "address": "4747 E Elliot Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "28",
+        "retailer": "Safeway",
+        "machineID": "Q01306",
+        "address": "6202 S 16th St",
+        "city": "Phoenix"
+    },
+    {
+        "id": "29",
+        "retailer": "Safeway",
+        "machineID": "Q01314",
+        "address": "3132 E Camelback Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "30",
+        "retailer": "Safeway",
+        "machineID": "Q01328",
+        "address": "520 W Osborn Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "31",
+        "retailer": "Safeway",
+        "machineID": "Q01329",
+        "address": "4747 E Greenway Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "32",
+        "retailer": "WinCo Foods",
+        "machineID": "Q01336",
+        "address": "330 W Bell Rd",
+        "city": "Phoenix"
+    },
+    {
+        "id": "33",
+        "retailer": "Safeway",
+        "machineID": "Q01347",
+        "address": "13440 N 7th St",
+        "city": "Phoenix"
+    }
+]
