@@ -37,7 +37,6 @@ export default function App() {
     outputRange: ['0deg', '360deg'],
   });
 
-  //method to open Apple Maps with vending machine locations
   const openAppleMaps = async () => {
     let { status } = await Location.requestForegroundPermissionsAsync();
     if (status !== 'granted') {
@@ -54,9 +53,9 @@ export default function App() {
       return;
     }
   
-    // Haversine formula to calculate the distance
+    // Haversine formula for distance calculation
     const toRadians = (deg: number) => (deg * Math.PI) / 180;
-    
+  
     const getDistance = (lat1: number, lon1: number, lat2: number, lon2: number) => {
       const R = 6371; // Earth radius in km
       const dLat = toRadians(lat2 - lat1);
@@ -68,23 +67,57 @@ export default function App() {
       return R * c;
     };
   
-    // Find the nearest vending machine
-    let nearestMachine = vendingMachines.reduce<VendingMachineWithDistance>((nearest, currentMachine) => {
-      const distance = getDistance(userLat, userLon, currentMachine.latitude, currentMachine.longitude);
-      return distance < nearest.distance ? { ...currentMachine, distance } : nearest;
-    }, { ...vendingMachines[0], distance: Infinity });
+    // Create a copy of vending machines to track visited locations
+    let remainingMachines = [...vendingMachines];
+    let route: { latitude: number; longitude: number; retailer: string; address: string; city: string }[] = [];
     
-    
+    // Find the first nearest machine (from user location)
+    let currentLat = userLat;
+    let currentLon = userLon;
   
-    if (!nearestMachine) {
-      alert('No vending machines found.');
+    for (let i = 0; i < 5 && remainingMachines.length > 0; i++) {
+      let nearestIndex = 0;
+      let nearestDistance = Infinity;
+  
+      remainingMachines.forEach((machine, index) => {
+        const distance = getDistance(currentLat, currentLon, machine.latitude, machine.longitude);
+        if (distance < nearestDistance) {
+          nearestDistance = distance;
+          nearestIndex = index;
+        }
+      });
+  
+      // Add the closest machine to the route
+      let nearestMachine = remainingMachines.splice(nearestIndex, 1)[0];
+      route.push({
+        latitude: nearestMachine.latitude,
+        longitude: nearestMachine.longitude,
+        retailer: nearestMachine.retailer,
+        address: nearestMachine.address,
+        city: nearestMachine.city
+      });
+  
+      // Update the current location to the nearest machine for the next iteration
+      currentLat = nearestMachine.latitude;
+      currentLon = nearestMachine.longitude;
+    }
+  
+    if (route.length === 0) {
+      alert("No route could be generated.");
       return;
     }
   
-    //Open Apple Maps with the route to the nearest vending machine
-    const appleMapsUrl = `maps://?saddr=${userLat},${userLon}&daddr=${encodeURIComponent(nearestMachine.retailer)},${encodeURIComponent(nearestMachine.address)},${encodeURIComponent(nearestMachine.city)}`;
+    // Generate Apple Maps URL with multiple stops
+    let appleMapsUrl = `maps://?saddr=${userLat},${userLon}`;
+    
+    route.forEach((stop, index) => {
+      appleMapsUrl += `&daddr=${encodeURIComponent(stop.retailer)},${encodeURIComponent(stop.address)},${encodeURIComponent(stop.city)}`;
+    });
+  
     Linking.openURL(appleMapsUrl);
   };
+  
+  
   
   
 
