@@ -63,7 +63,7 @@
         "longitude": -112.06598
     },
     {
-        "id": "7",
+        "id": "8",
         "retailer": "Fry's",
         "machineID": "Q00346",
         "address": "3949 E Chandler Blvd",
@@ -72,7 +72,7 @@
         "longitude": -111.99868
     },
     {
-        "id": "8",
+        "id": "9",
         "retailer": "Fry's",
         "machineID": "Q00349",
         "address": "4025 E Thunderbird Rd",
@@ -81,7 +81,7 @@
         "longitude": -111.99417
     },
     {
-        "id": "9",
+        "id": "10",
         "retailer": "Fry's",
         "machineID": "Q00353",
         "address": "26300 Norterra Pkwy",
@@ -90,7 +90,7 @@
         "longitude": -112.11601
     },
     {
-        "id": "10",
+        "id": "11",
         "retailer": "Fry's",
         "machineID": "Q00357",
         "address": "1311 E Bell Rd",
@@ -99,7 +99,7 @@
         "longitude": -112.05354
     },
     {
-        "id": "11",
+        "id": "12",
         "retailer": "Fry's",
         "machineID": "Q00359",
         "address": "3246 E Bell Rd",
@@ -108,7 +108,7 @@
         "longitude": -112.01122
     },
     {
-        "id": "12",
+        "id": "13",
         "retailer": "Fry's",
         "machineID": "Q00361",
         "address": "4230 W McDowell Rd",
@@ -117,7 +117,7 @@
         "longitude": -112.15063
     },
     {
-        "id": "13",
+        "id": "14",
         "retailer": "Fry's",
         "machineID": "Q00363",
         "address": "39508 N Daisy Mountain Dr",
@@ -126,7 +126,7 @@
         "longitude": -112.13369
     },
     {
-        "id": "14",
+        "id": "15",
         "retailer": "Fry's",
         "machineID": "Q00364",
         "address": "744 W Camelback Rd",
@@ -135,7 +135,7 @@
         "longitude": -112.08550
     },
     {
-        "id": "15",
+        "id": "16",
         "retailer": "Fry's",
         "machineID": "Q00365",
         "address": "100 E Jefferson St",
@@ -144,7 +144,7 @@
         "longitude": -112.07221
     },
     {
-        "id": "16",
+        "id": "17",
         "retailer": "Fry's",
         "machineID": "Q00369",
         "address": "3036 E Thomas Rd",
@@ -153,7 +153,7 @@
         "longitude": -112.01654
     },
     {
-        "id": "17",
+        "id": "18",
         "retailer": "Fry's",
         "machineID": "Q00371",
         "address": "4204 W Cactus Rd",
@@ -162,7 +162,7 @@
         "longitude": -112.14998
     },
     {
-        "id": "18",
+        "id": "19",
         "retailer": "Fry's",
         "machineID": "Q00375",
         "address": "3511 W Peoria Ave",
@@ -171,7 +171,7 @@
         "longitude": -112.13546
     },
     {
-        "id": "19",
+        "id": "20",
         "retailer": "Fry's",
         "machineID": "Q00377",
         "address": "4724 N 20th St",
@@ -180,7 +180,7 @@
         "longitude": -112.04125
     },
     {
-        "id": "20",
+        "id": "21",
         "retailer": "Fry's",
         "machineID": "Q00379",
         "address": "4707 E Shea Blvd",
@@ -189,7 +189,7 @@
         "longitude": -111.97901
     },
     {
-        "id": "21",
+        "id": "22",
         "retailer": "Fry's",
         "machineID": "Q00382",
         "address": "4505 E Thomas Rd",
@@ -198,7 +198,7 @@
         "longitude": -111.98410
     },
     {
-        "id": "22",
+        "id": "23",
         "retailer": "Fry's",
         "machineID": "Q00733",
         "address": "2250 E Baseline Rd",
@@ -207,7 +207,7 @@
         "longitude": -112.03180
     },
     {
-        "id": "23",
+        "id": "24",
         "retailer": "Fry's",
         "machineID": "Q00756",
         "address": "2800 W Dove Valley Rd",
@@ -216,7 +216,7 @@
         "longitude": -112.11936
     },
     {
-        "id": "24",
+        "id": "25",
         "retailer": "Safeway",
         "machineID": "Q01282",
         "address": "4005 E Chandler Blvd",
@@ -225,7 +225,7 @@
         "longitude": -111.99635
     },
     {
-        "id": "25",
+        "id": "26",
         "retailer": "Safeway",
         "machineID": "Q01292",
         "address": "1334 E Chandler Blvd",
@@ -234,7 +234,7 @@
         "longitude": -112.05371
     },
     {
-        "id": "26",
+        "id": "27",
         "retailer": "Safeway",
         "machineID": "Q01301",
         "address": "810 E Glendale Ave",
@@ -243,7 +243,7 @@
         "longitude": -112.06246
     },
     {
-        "id": "27",
+        "id": "28",
         "retailer": "Safeway",
         "machineID": "Q01303",
         "address": "4747 E Elliot Rd",
@@ -252,7 +252,7 @@
         "longitude": -111.98197
     },
     {
-        "id": "28",
+        "id": "29",
         "retailer": "Safeway",
         "machineID": "Q01306",
         "address": "6202 S 16th St",
@@ -261,7 +261,7 @@
         "longitude": -112.04916
     },
     {
-        "id": "29",
+        "id": "30",
         "retailer": "Safeway",
         "machineID": "Q01314",
         "address": "3132 E Camelback Rd",
@@ -270,7 +270,7 @@
         "longitude": -112.01467
     },
     {
-        "id": "30",
+        "id": "31",
         "retailer": "Safeway",
         "machineID": "Q01328",
         "address": "520 W Osborn Rd",
@@ -279,7 +279,7 @@
         "longitude": -112.08167
     },
     {
-        "id": "31",
+        "id": "32",
         "retailer": "Safeway",
         "machineID": "Q01329",
         "address": "4747 E Greenway Rd",
@@ -288,7 +288,7 @@
         "longitude": -111.97908
     },
     {
-        "id": "32",
+        "id": "33",
         "retailer": "WinCo Foods",
         "machineID": "Q01336",
         "address": "330 W Bell Rd",
@@ -297,7 +297,7 @@
         "longitude": -112.07978
     },
     {
-        "id": "33",
+        "id": "34",
         "retailer": "Safeway",
         "machineID": "Q01347",
         "address": "13440 N 7th St",
