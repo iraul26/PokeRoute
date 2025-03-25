@@ -4,237 +4,305 @@
         "retailer": "Fry's",
         "machineID": "Q00609",
         "address": "20220 N 59th Ave",
-        "city": "Glendale"
+        "city": "Glendale",
+        "latitude": 33.66983,
+        "longitude": -112.18886 
     },
     {
         "id": "2",
         "retailer": "Fry's",
         "machineID": "Q00775",
-        "address": "25116 W Olive Ave",
-        "city": "Glendale"
+        "address": "5116 W Olive Ave",
+        "city": "Glendale",
+        "latitude": 33.56890,
+        "longitude": -112.16981
     },
     {
         "id": "3",
         "retailer": "Fry's",
         "machineID": "Q00776",
         "address": "4329 W Northern Ave",
-        "city": "Glendale"
+        "city": "Glendale",
+        "latitude": 33.55244,
+        "longitude": -112.15308
     },
     {
         "id": "4 ",
         "retailer": "WinCo Foods",
         "machineID": "Q01397",
         "address": "5850 W Bell Rd",
-        "city": "Glendale"
+        "city": "Glendale",
+        "latitude": 33.64089,
+        "longitude": -112.18311
     },
     {
         "id": "5",
         "retailer": "Fry's",
         "machineID": "Q00318",
         "address": "3616 E Ray Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.31697,
+        "longitude": -112.00542
     },
     {
         "id": "6",
         "retailer": "Fry's",
         "machineID": "Q00333",
         "address": "1815 W Glendale Ave",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.53720,
+        "longitude": -112.09828
     },
     {
         "id": "7",
         "retailer": "Fry's",
         "machineID": "Q00337",
         "address": "520 E Baseline Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.37941,
+        "longitude": -112.06598
     },
     {
         "id": "7",
         "retailer": "Fry's",
         "machineID": "Q00346",
         "address": "3949 E Chandler Blvd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.30364,
+        "longitude": -111.99868
     },
     {
         "id": "8",
         "retailer": "Fry's",
         "machineID": "Q00349",
         "address": "4025 E Thunderbird Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.61117,
+        "longitude": -111.99417
     },
     {
         "id": "9",
         "retailer": "Fry's",
         "machineID": "Q00353",
         "address": "26300 Norterra Pkwy",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.72438,
+        "longitude": -112.11601
     },
     {
         "id": "10",
         "retailer": "Fry's",
         "machineID": "Q00357",
         "address": "1311 E Bell Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.63866,
+        "longitude": -112.05354
     },
     {
         "id": "11",
         "retailer": "Fry's",
         "machineID": "Q00359",
         "address": "3246 E Bell Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.64207,
+        "longitude": -112.01122
     },
     {
         "id": "12",
         "retailer": "Fry's",
         "machineID": "Q00361",
         "address": "4230 W McDowell Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.46787,
+        "longitude": -112.15063
     },
     {
         "id": "13",
         "retailer": "Fry's",
         "machineID": "Q00363",
         "address": "39508 N Daisy Mountain Dr",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.84449,
+        "longitude": -112.13369
     },
     {
         "id": "14",
         "retailer": "Fry's",
         "machineID": "Q00364",
         "address": "744 W Camelback Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.51143,
+        "longitude": -112.08550
     },
     {
         "id": "15",
         "retailer": "Fry's",
         "machineID": "Q00365",
         "address": "100 E Jefferson St",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.44761,
+        "longitude": -112.07221
     },
     {
         "id": "16",
         "retailer": "Fry's",
         "machineID": "Q00369",
         "address": "3036 E Thomas Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.48189,
+        "longitude": -112.01654
     },
     {
         "id": "17",
         "retailer": "Fry's",
         "machineID": "Q00371",
         "address": "4204 W Cactus Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.59814,
+        "longitude": -112.14998
     },
     {
         "id": "18",
         "retailer": "Fry's",
         "machineID": "Q00375",
         "address": "3511 W Peoria Ave",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.58078,
+        "longitude": -112.13546
     },
     {
         "id": "19",
         "retailer": "Fry's",
         "machineID": "Q00377",
         "address": "4724 N 20th St",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.50700,
+        "longitude": -112.04125
     },
     {
         "id": "20",
         "retailer": "Fry's",
         "machineID": "Q00379",
         "address": "4707 E Shea Blvd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.58097,
+        "longitude": -111.97901
     },
     {
         "id": "21",
         "retailer": "Fry's",
         "machineID": "Q00382",
         "address": "4505 E Thomas Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.47921,
+        "longitude": -111.98410
     },
     {
         "id": "22",
         "retailer": "Fry's",
         "machineID": "Q00733",
         "address": "2250 E Baseline Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.37958,
+        "longitude": -112.03180
     },
     {
         "id": "23",
         "retailer": "Fry's",
         "machineID": "Q00756",
         "address": "2800 W Dove Valley Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.78615,
+        "longitude": -112.11936
     },
     {
         "id": "24",
         "retailer": "Safeway",
         "machineID": "Q01282",
         "address": "4005 E Chandler Blvd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.30310,
+        "longitude": -111.99635
     },
     {
         "id": "25",
         "retailer": "Safeway",
         "machineID": "Q01292",
         "address": "1334 E Chandler Blvd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.30707,
+        "longitude": -112.05371
     },
     {
         "id": "26",
         "retailer": "Safeway",
         "machineID": "Q01301",
         "address": "810 E Glendale Ave",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.53946,
+        "longitude": -112.06246
     },
     {
         "id": "27",
         "retailer": "Safeway",
         "machineID": "Q01303",
         "address": "4747 E Elliot Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.34797,
+        "longitude": -111.98197
     },
     {
         "id": "28",
         "retailer": "Safeway",
         "machineID": "Q01306",
         "address": "6202 S 16th St",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.39057,
+        "longitude": -112.04916
     },
     {
         "id": "29",
         "retailer": "Safeway",
         "machineID": "Q01314",
         "address": "3132 E Camelback Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.51161,
+        "longitude": -112.01467
     },
     {
         "id": "30",
         "retailer": "Safeway",
         "machineID": "Q01328",
         "address": "520 W Osborn Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.48877,
+        "longitude": -112.08167
     },
     {
         "id": "31",
         "retailer": "Safeway",
         "machineID": "Q01329",
         "address": "4747 E Greenway Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.62455,
+        "longitude": -111.97908
     },
     {
         "id": "32",
         "retailer": "WinCo Foods",
         "machineID": "Q01336",
         "address": "330 W Bell Rd",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.64130,
+        "longitude": -112.07978
     },
     {
         "id": "33",
         "retailer": "Safeway",
         "machineID": "Q01347",
         "address": "13440 N 7th St",
-        "city": "Phoenix"
+        "city": "Phoenix",
+        "latitude": 33.60891,
+        "longitude": -112.06696
     }
 ]
